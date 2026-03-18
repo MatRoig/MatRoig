@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hello There! Soy Matías👋
 
-<!--
-**MatRoig/MatRoig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ ¿Quién soy?
+Soy un aficionado a la tecnología y el pensamiento lógico, profesionalizandome dentro del rubro.
+Actualmente estudio en **Generation**, donde estoy aprendiendo las bases para trabajar como desarrollador.
 
-Here are some ideas to get you started:
+## 🎓 Formación
+**Bootcamp de Generation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 Eterno Aprendíz
+Karate-DO | VideoJuegos | Plantas | Música
+
+## 📚 Tecnologías que estoy aprendiendo
+- HTML
+- CSS
+- JavaScript
+- Git y GitHub
+
+## 🎯 Objetivo
+Crecer en el campo de la informática, y hacerme de un lugar en el rubro.
+
+## 🔥 Motivación
+Disfruto mucho de estudiar, aprender cosas nuevas, dominarlas y conextarlas con otros conocimientos para llegar a soluciones creativas.
+
+## ✨ Frase personal
+"El talento se estudia, aprende y domina"
